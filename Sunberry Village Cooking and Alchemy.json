@@ -1,0 +1,315 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "SunberryTeam.SBVSMAPI",
+  "BagId": "7105eeec-7d63-f5a4-f66a-c3b41257deef",
+  "BagName": "Sunberry Cooking and Alchemy Bag",
+  "BagDescription": "Bag for storing cooking products, alchemy items and animal products from Sunberry Village.",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 64,
+    "Y": 128,
+    "Width": 16,
+    "Height": 16
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Gus"
+    ],
+    "Medium": [
+      "Gus"
+    ],
+    "Large": [
+      "Gus"
+    ],
+    "Giant": [
+      "Gus"
+    ],
+    "Massive": [
+      "Gus"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+
+    {
+      "ObjectId": "skellady.SBVCP_ChocoChipCookies",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_DialaHotChoco",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_IceCreamBowl",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_SerpentinePotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_PurpuritePotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_AnnabergitePotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_CitrinePotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_BlueAuraQuartzPotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_MoonberryPotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_DolomitePotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_TigerseyePotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_LunaritePotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_FairyStonePotion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_SerpentinePowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_PurpuritePowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_AnnabergitePowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_CitrinePowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_BlueAuraQuartzPowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_MoonberryPowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_DolomitePowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_TigerseyePowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_LunaritePowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_FairyStonePowder",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_AlchemyTable",
+      "IsBigCraftable": true,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_AlpacaWool",
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small"
+    },
+
+    {
+      "ObjectId": "skellady.SBVCP_AlpacaWoolFabric",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    }
+
+
+
+  ]
+
+}
