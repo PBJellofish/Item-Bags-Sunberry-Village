@@ -1,6 +1,6 @@
 {
   "IsEnabled": true,
-  "ModUniqueId": "SunberryTeam.SBVSMAPI",
+  "ModUniqueId": "skellady.SBVCP",
   "BagId": "79032b8b-2ad2-f486-19bc-672ead367aa8",
   "BagName": "Sunberry Mining and Artifacts Bag",
   "BagDescription": "Bag for storing gems, geodes and artifacts.",
@@ -127,166 +127,149 @@
   "Items": [
 
     {
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "skellady.SBVCP_LunarBean"
+    },
+    {
       "ObjectId": "skellady.SBVCP_Annabergite",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Small"
     },
-
     {
       "ObjectId": "skellady.SBVCP_BlueAuraQuartz",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Small"
     },
-
     {
       "ObjectId": "skellady.SBVCP_Citrine",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Small"
     },
-
     {
       "ObjectId": "skellady.SBVCP_Moonberry",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Small"
     },
-
     {
       "ObjectId": "skellady.SBVCP_Purpurite",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Small"
     },
-
     {
       "ObjectId": "skellady.SBVCP_Serpentine",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Small"
     },
-
     {
       "ObjectId": "skellady.SBVCP_SunberryGeode",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_SunriseOrb",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_SunsetOrb",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_MidnightOrb",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_EclipseOrb",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_PrismaticOrb",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_MushroomStatue",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_AncientStaff",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_SilverMask",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_LapisNecklace",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_WickedVase",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_GoldenCoins",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_ChippedJug",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_DwarfKeyI",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_DwarfKeyII",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_DwarfKeyIII",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_DwarfKeyIV",
       "IsBigCraftable": false,
       "HasQualities": false,
       "RequiredSize": "Large"
     },
-
     {
       "ObjectId": "skellady.SBVCP_MineralGrinder",
       "IsBigCraftable": true,
