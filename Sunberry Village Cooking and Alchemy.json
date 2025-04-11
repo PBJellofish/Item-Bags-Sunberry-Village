@@ -1,6 +1,6 @@
 {
   "IsEnabled": true,
-  "ModUniqueId": "SunberryTeam.SBVSMAPI",
+  "ModUniqueId": "skellady.SBVCP",
   "BagId": "7105eeec-7d63-f5a4-f66a-c3b41257deef",
   "BagName": "Sunberry Cooking and Alchemy Bag",
   "BagDescription": "Bag for storing cooking products, alchemy items and animal products from Sunberry Village.",
@@ -150,140 +150,151 @@
     {
       "ObjectId": "skellady.SBVCP_SerpentinePotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_PurpuritePotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_AnnabergitePotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_CitrinePotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_BlueAuraQuartzPotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_MoonberryPotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_DolomitePotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_TigerseyePotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_LunaritePotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_FairyStonePotion",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
-
+    {
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "skellady.SBVCP_GenericPotion"
+    },
+    {
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "skellady.SBVCP_GenericPowder"
+    },
     {
       "ObjectId": "skellady.SBVCP_SerpentinePowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_PurpuritePowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_AnnabergitePowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_CitrinePowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_BlueAuraQuartzPowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_MoonberryPowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_DolomitePowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_TigerseyePowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_LunaritePowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
     {
       "ObjectId": "skellady.SBVCP_FairyStonePowder",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Large"
     },
 
@@ -304,7 +315,7 @@
     {
       "ObjectId": "skellady.SBVCP_AlpacaWoolFabric",
       "IsBigCraftable": false,
-      "HasQualities": false,
+      "HasQualities": true,
       "RequiredSize": "Small"
     }
 
