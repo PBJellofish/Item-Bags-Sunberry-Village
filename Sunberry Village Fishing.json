@@ -1,6 +1,6 @@
 {
   "IsEnabled": true,
-  "ModUniqueId": "SunberryTeam.SBVSMAPI",
+  "ModUniqueId": "skellady.SBVCP",
   "BagId": "36575cce-b7fb-33b9-4db1-a8f31aede6e0",
   "BagName": "Sunberry Fishing Bag",
   "BagDescription": "Bag for storing fish from Sunberry Village.",
@@ -188,7 +188,12 @@
       "HasQualities": true,
       "RequiredSize": "Small"
     },
-
+    {
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "skellady.SBVCP_Najelfish"
+    },
     {
       "ObjectId": "skellady.SBVCP_SeaCow",
       "IsBigCraftable": false,
